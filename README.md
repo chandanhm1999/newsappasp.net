@@ -38,6 +38,14 @@ Once the application is up and running, you can access it through a web browser.
 
 As an administrator, you have additional privileges to manage content and user accounts. You can access the admin panel by logging in with the provided administrator credentials. From the admin panel, you can perform CRUD operations on news articles and manage user accounts.
 
+![Screenshot 2024-05-24 110641](https://github.com/chandanhm1999/newsappasp.net/assets/109410990/2c279df7-f7f4-4903-aec1-e2bee71567c0)
+![Screenshot 2024-05-24 110705](https://github.com/chandanhm1999/newsappasp.net/assets/109410990/305ccf33-bd30-4971-b6ee-c7dca8b1008b)
+![Screenshot 2024-05-24 110725](https://github.com/chandanhm1999/newsappasp.net/assets/109410990/5578be87-3a8b-4ebb-b72f-01842025016b)
+![Screenshot 2024-05-24 110747](https://github.com/chandanhm1999/newsappasp.net/assets/109410990/01d1eb0b-91f6-4fb9-900b-73ab57ec9835)
+![Screenshot 2024-05-24 110802](https://github.com/chandanhm1999/newsappasp.net/assets/109410990/07481933-83c9-4711-b7f6-d1ed6b70303e)
+![Screenshot 2024-05-24 110826](https://github.com/chandanhm1999/newsappasp.net/assets/109410990/7eccab2b-02c0-4362-be05-713378e10141)
+
+
 * Contributing
 
 Contributions to this project are welcome. If you find any issues or want to suggest improvements, please open an issue or submit a pull request. Make sure to follow the project's coding style and guidelines. For major changes, it is recommended to discuss them first in an issue to get feedback from the project maintainers.
