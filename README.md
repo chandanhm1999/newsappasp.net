@@ -26,6 +26,7 @@ CRUD operations for administrators to manage content and user accounts.
 ## To run this application locally, follow these steps:
 
 > Clone the repository: git clone https://github.com/chandanhm1999/newsappasp.net.git.
+
 Open the project in your preferred development environment.
 Install the necessary dependencies by restoring NuGet packages.
 Set up a Microsoft SQL Server database and update the connection string in the appsettings.json file.
