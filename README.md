@@ -1,31 +1,31 @@
-NewsApp ASP.NET
+> NewsApp ASP.NET
 
-This repository contains an ASP.NET-based news application.
+## This repository contains an ASP.NET-based news application.
 
-Table of Contents
-Project Description
-Features
-Installation
-Usage
-Contributing
-License
-Project Description
+* Table of Contents
+* Project Description
+* Features
+* Installation
+* Usage
+* Contributing
+* License
+* Project Description
 
-NewsApp ASP.NET is a web application that allows users to access and read news articles. It provides a user-friendly interface for browsing through various categories of news, searching for specific articles, and reading detailed information on selected topics.
+##### NewsApp ASP.NET is a web application that allows users to access and read news articles. It provides a user-friendly interface for browsing through various categories of news, searching for specific articles, and reading detailed information on selected topics.
 
 The application is built using ASP.NET, which is a popular and powerful web development framework. It utilizes C# as the primary programming language and follows the Model-View-Controller (MVC) architectural pattern. The database management system used is Microsoft SQL Server.
 
-Features
+* Features
 User registration and authentication system.
 Categorized news articles for easy navigation.
 Searching and filtering capabilities.
 User-friendly interface for easy reading and browsing of news articles.
 CRUD operations for administrators to manage content and user accounts.
-Installation
+* Installation
 
-To run this application locally, follow these steps:
+## To run this application locally, follow these steps:
 
-Clone the repository: git clone https://github.com/chandanhm1999/newsappasp.net.git.
+> Clone the repository: git clone https://github.com/chandanhm1999/newsappasp.net.git.
 Open the project in your preferred development environment.
 Install the necessary dependencies by restoring NuGet packages.
 Set up a Microsoft SQL Server database and update the connection string in the appsettings.json file.
@@ -37,11 +37,11 @@ Once the application is up and running, you can access it through a web browser.
 
 As an administrator, you have additional privileges to manage content and user accounts. You can access the admin panel by logging in with the provided administrator credentials. From the admin panel, you can perform CRUD operations on news articles and manage user accounts.
 
-Contributing
+* Contributing
 
 Contributions to this project are welcome. If you find any issues or want to suggest improvements, please open an issue or submit a pull request. Make sure to follow the project's coding style and guidelines. For major changes, it is recommended to discuss them first in an issue to get feedback from the project maintainers.
 
-License
+* License
 
 This project is licensed under the MIT License.
 
