@@ -1,6 +1,6 @@
 > NewsApp ASP.NET!!!
 
-## This repository contains an ASP.NET-based news application.
+## This repository contains an ASP.NET-based news application.!
 
 * Table of Contents
 * Project Description
